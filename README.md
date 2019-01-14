@@ -1,5 +1,7 @@
 # File system notifications for Go
 
+监控文件的变化， 可以作为golang热更新的条件入口
+
 [![GoDoc](https://godoc.org/github.com/howeyc/fsnotify?status.png)](http://godoc.org/github.com/howeyc/fsnotify)
 
 Cross platform: Windows, Linux, BSD and OS X.
